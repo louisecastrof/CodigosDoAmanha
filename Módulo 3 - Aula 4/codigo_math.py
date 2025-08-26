@@ -3,7 +3,7 @@ import math
 
 # Calcula a raiz quadrada de 16
 raiz_quadrada = math.sqrt(16)
-print(raiz_quadrada)  # Saída: 4.0
+print(raiz_quadrada)  # Saída deve ser 4.0
 
 # Calcula o valor de pi 
 valor_pi = math.pi
